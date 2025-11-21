@@ -1,0 +1,17 @@
+# Build
+build/
+bin/
+lib/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+vcpkg/
+vcpkg_installed/
