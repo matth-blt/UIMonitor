@@ -25,7 +25,7 @@ Inspired by tools like `htop` and `btop`, UIMonitor provides real-time insights 
 
 1.  **Clone the repository**:
     ```powershell
-    git clone https://github.com/yourusername/UIMonitor.git
+    git clone https://github.com/matth-blt/UIMonitor.git
     cd UIMonitor
     ```
 
