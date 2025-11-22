@@ -25,7 +25,7 @@ Inspiré par des outils comme `htop` et `btop`, UIMonitor fournit des informatio
 
 1.  **Cloner le dépôt** :
     ```powershell
-    git clone https://github.com/votreutilisateur/UIMonitor.git
+    git clone https://github.com/matth-blt/UIMonitor.git
     cd UIMonitor
     ```
 
